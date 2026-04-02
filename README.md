@@ -64,8 +64,8 @@ I am actively seeking **remote data analyst roles**, internships, and freelance 
 ---
 
 ## 📫 Let’s Connect
-- LinkedIn: (add your link)
-- Medium: (add your link)
+- LinkedIn: https://www.linkedin.com/in/funbiolowojesiku/
+- Medium:  https://medium.com/@funbiolowojesiku
 - GitHub: https://github.com/Funbi-data
 
 ---
