@@ -1,27 +1,36 @@
 # 👋 Hi, I'm Funbi Olowojesiku
 
-## 🚀 Data Analyst | Machine Learning Enthusiast
+## 🤖 AI Engineer | Machine Learning Engineer | Python | FastAPI | Computer Vision
 
-I transform raw data into actionable insights that support business decision-making.  
-With a background in Microbiology, I bring strong analytical thinking and problem-solving skills into data analytics and machine learning.
+I build AI-powered applications and machine learning solutions using Python.
+
+My interests include machine learning, computer vision, AI safety, and building scalable APIs with FastAPI and Streamlit.
+
+With a background in Microbiology and hands-on experience in AI Engineering, I enjoy solving real-world problems through data and intelligent systems.
 
 ---
 
 ## 💼 What I Do
-- Data Cleaning & Transformation
-- Exploratory Data Analysis (EDA)
-- Dashboard Development (Excel & Power BI)
-- SQL Data Querying & Analysis
-- Machine Learning & Predictive Modeling
+• Machine Learning Model Development
+• FastAPI & REST API Development
+• Computer Vision & OCR Applications
+• Data Analysis & Visualization
+• Predictive Modeling
+• AI Workflow Automation
 
 ---
 
 ## 🛠️ Tools & Technologies
-- Excel (Advanced Formulas, Pivot Tables, Dashboards)
-- Power BI (DAX, Data Modeling)
-- SQL (Joins, Aggregations)
-- Python (Pandas, NumPy, Matplotlib, Scikit-learn)
-
+Python
+FastAPI
+Streamlit
+Scikit-learn
+Pandas
+NumPy
+SQL
+Git & GitHub
+Docker
+Power BI
 ---
 
 ## 📊 Featured Projects
