@@ -1,82 +1,75 @@
-# 👋 Hi, I'm Funbi Olowojesiku
+# Hi, I'm Funbi Olowojesiku 👋
 
-## 🤖 AI Engineer | Machine Learning Engineer | Python | FastAPI | Computer Vision
+## AI/ML Engineer | Machine Learning | Python | AI Systems
 
-I build AI-powered applications and machine learning solutions using Python.
+I build machine-learning and AI-powered applications using Python, with an
+interest in reliable, efficient, and deployable AI systems.
 
-My interests include machine learning, computer vision, AI safety, and building scalable APIs with FastAPI and Streamlit.
+My background is in Microbiology, and I have transitioned into AI/ML
+engineering through hands-on projects involving machine learning, model
+evaluation, computer vision, OCR, API development, automation, and data
+analysis.
 
-With a background in Microbiology and hands-on experience in AI Engineering, I enjoy solving real-world problems through data and intelligent systems.
+### Research & Technical Interests
 
----
+- Machine Learning
+- AI Systems and Model Evaluation
+- Reliable and Resource-Efficient AI
+- Generative AI
+- Computer Vision
+- AI Engineering and Deployment
+- Model Performance and Evaluation
+- Computational Biology
 
-## 💼 What I Do
-• Machine Learning Model Development
-• FastAPI & REST API Development
-• Computer Vision & OCR Applications
-• Data Analysis & Visualization
-• Predictive Modeling
-• AI Workflow Automation
+### Technical Skills
 
----
+**Languages:** Python, SQL
 
-## 🛠️ Tools & Technologies
-Python
-FastAPI
-Streamlit
-Scikit-learn
-Pandas
-NumPy
-SQL
-Git & GitHub
-Docker
-Power BI
----
+**Machine Learning:** Scikit-learn, Pandas, NumPy, classification,
+regression, model evaluation
 
-## 📊 Featured Projects
+**AI Engineering:** FastAPI, REST APIs, Streamlit, Docker
 
-### 🔹 Loan Default Risk Prediction
-Machine learning model to identify high-risk borrowers and improve lending decisions.
+**AI / Computer Vision:** OCR, computer vision, LLM evaluation
 
-- Improved recall using SMOTE  
-- Identified key risk drivers (FICO Score, Interest Rate, Credit Policy)  
-- Built using Random Forest  
+**Data & Analytics:** Power BI, Excel, exploratory data analysis,
+visualisation
 
-👉 [View Project](https://github.com/Funbi-data/loan-default-risk-analysis)
+**Engineering:** Git, GitHub, GitHub Actions, Docker
 
----
+## Selected Projects
 
-### 🔹 Supermarket Sales Dashboard (Excel)
-- Built an interactive dashboard for branch performance  
-- Identified top-performing locations and product lines  
-- Delivered actionable business insights  
+### 🔬 LLM Evaluation Framework
+A reproducible framework for evaluating multiple LLM providers using
+latency, quality, reliability and semantic-similarity metrics.
 
----
+[View project](https://github.com/Funbi-data/llm-evaluation-framework)
 
-### 🔹 Global Superstore Analysis (Python)
-- Conducted full EDA and business analysis  
-- Evaluated sales, profit, and discount impact  
-- Provided strategic recommendations  
+### ⚙️ System Performance Analysis
+Python-based analysis of CPU usage, memory usage, response time,
+active users and server performance to identify bottlenecks and
+performance patterns.
 
----
+[View project](https://github.com/Funbi-data/system-performance-analysis)
 
-## 📈 Currently Working On
-- Machine Learning Projects (Regression & Classification)
-- Advanced SQL
-- Building a strong data analytics portfolio
+### 🤖 Loan Default Risk Prediction
+End-to-end machine-learning system covering preprocessing, model
+training, evaluation, model serialization, FastAPI deployment and
+Streamlit interface.
 
----
+[View project](https://github.com/Funbi-data/loan-default-risk-analysis)
 
-## 🌍 Open to Opportunities
-I am actively seeking **remote data analyst roles**, internships, and freelance opportunities.
+### 👁️ OCR / Computer Vision
+Computer-vision and OCR projects for extracting and processing
+information from images and documents.
 
----
+## Current Direction
 
-## 📫 Let’s Connect
+I am developing toward research and engineering roles at the
+intersection of machine learning, AI systems, efficient computation,
+and real-world intelligent applications.
+
+## Connect
+
 - LinkedIn: https://www.linkedin.com/in/funbiolowojesiku/
-- Medium:  https://medium.com/@funbiolowojesiku
 - GitHub: https://github.com/Funbi-data
-
----
-
-⭐ Feel free to explore my projects and connect!
