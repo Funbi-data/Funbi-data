@@ -4,11 +4,7 @@
 
 I build machine-learning and AI-powered applications using Python, with an
 interest in reliable, efficient, and deployable AI systems.
-
-My background is in Microbiology, and I have transitioned into AI/ML
-engineering through hands-on projects involving machine learning, model
-evaluation, computer vision, OCR, API development, automation, and data
-analysis.
+My academic background is in Microbiology, with training in statistics, quantitative biology, computer programming, molecular biology, microbial genetics, and immunology. I have developed practical AI/ML engineering experience through hands-on projects involving machine learning, model evaluation, computer vision, OCR, API development, automation, and data analysis.
 
 ### Research & Technical Interests
 
