@@ -26,12 +26,12 @@ regression, model evaluation
 
 **AI Engineering:** FastAPI, REST APIs, Streamlit, Docker
 
-**AI / Computer Vision:** OCR, computer vision, LLM evaluation
+**AI & Computer Vision:** OCR, computer vision, LLM evaluation
 
 **Data & Analytics:** Power BI, Excel, exploratory data analysis,
 visualisation
 
-**Engineering:** Git, GitHub, GitHub Actions, Docker
+**Engineering:** Git, GitHub, GitHub Actions, software development 
 
 ## Selected Projects
 
